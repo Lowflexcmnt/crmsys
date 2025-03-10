@@ -1,0 +1,118 @@
+{
+    "accounts": [
+        {
+            "name": "user_traffic_1",
+            "api_id": "25630238",
+            "api_hash": "5946d954182421e5f7eee51bec85b830",
+            "phone": "+380978206281"
+        },
+        {
+            "name": "user_traffic_2",
+            "api_id": "29291374",
+            "api_hash": "049efe59ac40332529df74f06901de5e",
+            "phone": "+380968446134"
+        },
+        {
+            "name": "user_traffic_3",
+            "api_id": "23961586",
+            "api_hash": "f8da7178d56578bb9cc1f30467e9dab1",
+            "phone": "+380968446652"
+        },
+        {
+            "name": "user_traffic_4",
+            "api_id": "21391343",
+            "api_hash": "839be87ad3375e649d00082763ef7798",
+            "phone": "+380978206188"
+        },
+        {
+            "name": "user_traffic_5",
+            "api_id": "23035378",
+            "api_hash": "630d24f65af323039388cc038014074f",
+            "phone": "+380978206835"
+        },
+        {
+            "name": "user_traffic_6",
+            "api_id": "9524294",
+            "api_hash": "61b4e668b197e86eae7138d6264f0206",
+            "phone": "+380978206614"
+        },
+        {
+            "name": "user_traffic_7",
+            "api_id": "27076373",
+            "api_hash": "094e7cedf25003543e28e942b4a9b13d",
+            "phone": "+380978206478"
+        },
+        {
+            "name": "user_traffic_8",
+            "api_id": "26792648",
+            "api_hash": "957ed77369dde1b3890910b880410944",
+            "phone": "+380978206186"
+        },
+        {
+            "name": "user_traffic_9",
+            "api_id": "23415430",
+            "api_hash": "3c812a576d5efac1cd07549c36bf6839",
+            "phone": "+380965695545"
+        },
+        {
+            "name": "user_traffic_10",
+            "api_id": "21422094",
+            "api_hash": "979624343ad790bf6c44b440d5785c4d",
+            "phone": "+380978212293"
+        },
+        {
+            "name": "user_traffic_11",
+            "api_id": "23318159",
+            "api_hash": "6790ac789d4a6e2bd90b9ac0790c2267",
+            "phone": "+380978217255"
+        },
+        {
+            "name": "user_service_1",
+            "api_id": "21193778",
+            "api_hash": "2645f667761a14b69e60b7eb19d0577b",
+            "phone": "+380978217065"
+        },
+        {
+            "name": "user_service_2",
+            "api_id": "27536057",
+            "api_hash": "d9b78297691ea827fbaa189983e5d6df",
+            "phone": "+380978217045"
+        },
+        {
+            "name": "user_service_3",
+            "api_id": "25151005",
+            "api_hash": "c28b3fac8c0d295f41581256e0d60a40",
+            "phone": "+380970151782"
+        },
+        {
+            "name": "user_service_4",
+            "api_id": "28168335",
+            "api_hash": "68f76959808cdb8685b1048b520bd536",
+            "phone": "+380978217007"
+        },
+        {
+            "name": "user_service_5",
+            "api_id": "27607957",
+            "api_hash": "5fb4ea050f02d3b486067f6bbe05384d",
+            "phone": "+380965698658"
+        },
+        {
+            "name": "user_service_6",
+            "api_id": "28364101",
+            "api_hash": "6ae79d1610e105b17900ac427ed498dc",
+            "phone": "+380968441158"
+        },
+        {
+            "name": "user_test",
+            "api_id": "22133941",
+            "api_hash": "c226d2309461ee258c2aefc4dd19b743",
+            "phone": "+380966184795"
+        },
+        {
+            "name": "user_test2",
+            "api_id": "20179612",
+            "api_hash": "97152305c69703ef16f9eb14b3c15f25",
+            "phone": "+380970151778"
+        }
+    ]
+}
